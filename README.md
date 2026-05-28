@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/jaalo-aagun-jaalo/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Jaalo Aagun Jaalo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/jaalo-aagun-jaalo/) |
+| **Get License** | [Get License For Jaalo Aagun Jaalo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/jaalo-aagun-jaalo/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> নিশুতি রাতের বুকে তুমি জ্বেলেছ যে মায়া
+> আমারই মনের ঘরে কাঁপে তোমারই সে ছায়া
+> অবুঝ প্রেমের এই নেশা ছড়ালো যে আজ
+> গোপন মনের কথাগুলো ভেঙে দিক লাজ
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
