@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Jaalo Aagun Jaalo
+
+This log tracks the cryptographic history and versioning for the song **Jaalo Aagun Jaalo** (jaalo-aagun-jaalo).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-28T14:55:22.811666 | `v1` | `513252e47858fe4d33e6b785147216bec3b45f5962003d282c03a3b27dd77922` | `f35777d5d0615d3de2463e990d12000c2a3530a3aa36773e1a10048a3dbbe27e` | `2026-05-28_jaalo-aagun-jaalo-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
